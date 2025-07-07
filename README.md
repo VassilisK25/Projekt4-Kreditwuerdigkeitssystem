@@ -1,2 +1,2 @@
-# Projekt2-Kreditw-rdigkeitssystem
+# Projekt2-Kreditwuerdigkeitssystem
 Programm zur Überprüfung der Kreditwürdigkeit
