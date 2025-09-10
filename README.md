@@ -1,6 +1,6 @@
 # Projekt2-Kreditwuerdigkeitssystem
 
-Programm zur Überprüfung der Kreditwürdigkeit
+Programm zur Überprüfung der Kreditwürdigkeit ** in Bearbeitung **
 
 +++++ Projekt 2:      Mit Projekt Nummer zwei wird ein Kreditwürdigkeitssystem realisiert. \*\* Noch zu klären: Wie wird die Infrastruktur realisiert? Was macht hierbei Sinn?\*\*
 Funktionen:
